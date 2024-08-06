@@ -1,0 +1,6 @@
+@FaxDemo2._1_HostAddress = http://localhost:5262
+
+GET {{FaxDemo2._1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
